@@ -14,7 +14,7 @@ TDZ 영역에 있는 변수들은 사용할 수 없다. 할당하기 전에는 �
    (3) 할당
    var: 선언과 초기화가 동시에 된다.
    let: 선언-초기화-할당
-   const: 선언과 할당이 동시에.
+   const: 선언과 할당이 동시에 된다
 
 var: function-scoped
 let, const: block-scoped
